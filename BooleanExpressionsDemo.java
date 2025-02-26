@@ -14,7 +14,7 @@ public class BooleanExpressionsDemo {
         boolean exclusiveOr = isJavaFun ^ isHomeworkTiring;
 
         System.out.println("Is Java fun? " + isJavaFun);
-        System.out.println("\nIs homework tiring? " + isHomeworkTiring);
+        System.out.println("Is homework tiring? " + isHomeworkTiring);
         System.out.println("Is 'a' greater than 'b'? " + isAGreater);
         System.out.println("Are 'a' and 'b' equal? " + areEqual);
         System.out.println("Both conditions (isJavaFun && a<b): " + bothTrue);
